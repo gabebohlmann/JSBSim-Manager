@@ -1,4 +1,4 @@
-git+git://github.com/open-aerospace/openrocketdoc
+git+https://github.com/open-aerospace/openrocketdoc
 jupyter
 matplotlib
 PyYAML
